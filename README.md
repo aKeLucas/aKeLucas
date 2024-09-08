@@ -1,0 +1,2 @@
+- Hi, I’m @aKeLucas
+- I’m currently learning: Front-End - C# - Python
